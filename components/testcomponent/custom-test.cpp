@@ -1,4 +1,4 @@
-#include "status_binary_sensor.h"
+#include "custom-test.h"
 #include "esphome/core/log.h"
 #include "esphome/components/network/util.h"
 #include "esphome/core/defines.h"
